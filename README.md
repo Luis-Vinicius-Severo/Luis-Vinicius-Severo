@@ -1,12 +1,16 @@
-## Olá, eu sou o Luis Vinicius 👋
- <p>🚀 Desenvolvedor Front-End | Análise e Desenvolvimento de Sistemas</p>
+# Olá, eu sou o Luis Vinicius 
+  🚀 **` Desenvolvedor Front-End | Análise e Desenvolvimento de Sistemas`**
+  
+---
+ ### 📊 Estatísticas
  <div>
    <a href="https://github.com/Luis-Vinicius-Severo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vinicius-Severo&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vinicius-Severo&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
 </div>
-    <h2>💻Tecnologias:</h2>
-<div style="display: inline_block"><br>
+
+<h2>💻 Linguagens e Tecnologias:</h2>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
