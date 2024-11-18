@@ -1,6 +1,16 @@
 # Olá, eu sou o Luis Vinicius 
   🚀 **` Desenvolvedor Front-End | Análise e Desenvolvimento de Sistemas`**
-  
+
+---
+## 🌟 Sobre mim  
+- 💻 Formado em Mecatrônica, mas descobri minha paixão pelo desenvolvimento web.  
+- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **HTML**, **CSS** e **JavaScript**.
+- 📚 Fazendo faculdade de Analise e desenvolvimento de sistemas na Cesuca.
+- 🚀 Busco sempre melhorar minhas habilidades e criar projetos que me desafiem.
+---
+## 🌐 Meu Portfólio  
+👉 Confira - [Portfólio](https://luis-vinicius-severo.github.io/Portifolio/).  
+
 ---
  ### 📊 Estatísticas
  <div>
