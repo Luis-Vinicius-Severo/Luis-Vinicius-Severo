@@ -3,8 +3,8 @@
 
 ---
 ## 🌟 Sobre mim  
-- 💻 Formado em Mecatrônica, mas descobri minha paixão pela programação  
-- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **Front-end***.
+- 💻 Formado em Mecatrônica, mas em transição de carreira
+- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **Front-end**.
 - 📚 Fazendo faculdade de Analise e desenvolvimento de sistemas na Cesuca.
 - 🚀 Busco sempre melhorar minhas habilidades e criar projetos que me desafiem.
 ---
@@ -25,6 +25,9 @@
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MySQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000">
+  <img align="center" alt="Git" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+  
 </div>
  
 <br>
