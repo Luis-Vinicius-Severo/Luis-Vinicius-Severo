@@ -4,7 +4,7 @@
 ---
 ## 🌟 Sobre mim  
 - 💻 Formado em Mecatrônica, mas descobri minha paixão pela programação  
-- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **HTML**, **CSS** e **JavaScript**.
+- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **Front-end***.
 - 📚 Fazendo faculdade de Analise e desenvolvimento de sistemas na Cesuca.
 - 🚀 Busco sempre melhorar minhas habilidades e criar projetos que me desafiem.
 ---
