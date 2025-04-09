@@ -3,10 +3,10 @@
 
 ---
 ## 🌟 Sobre mim  
-- 💻 Formado em Mecatrônica, mas em transição de carreira
-- 📚 Atualmente estudando na **Origamid** e aprofundando meus conhecimentos em **Front-end**.
-- 📚 Fazendo faculdade de Analise e desenvolvimento de sistemas na Cesuca.
-- 🚀 Busco sempre melhorar minhas habilidades e criar projetos que me desafiem.
+- 🔧 Formado em Mecatrônica e em transição para o desenvolvimento de software
+- 📚 Atualmente focado no desenvolvimento **Front-end**, estudando pela **Origamid**.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cesuca)
+- 📈 Sempre em busca de novos desafios e aprendizados para evoluir como desenvolvedor
 ---
 ## 🌐 Meu Portfólio  
 👉 Confira - [Portfólio](https://luis-vinicius-severo.github.io/Portifolio/).  
