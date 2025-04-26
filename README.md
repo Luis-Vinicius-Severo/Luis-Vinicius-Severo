@@ -22,31 +22,32 @@
 <h2>💻 Linguagens e Tecnologias:</h2>
 
 <!-- Front-end Web -->
-<h3>🌐 Front-end:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<h3>🌐 Front-end Web:</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 <!-- Front-end Mobile -->
-<h3>📱 Mobile :</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Flutter" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
+<h3>📱 Mobile:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</p>
 
 <!-- Banco de Dados -->
-<h3>🗄 Banco de Dados:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000">
-</div>
+<h3>🗄️ Banco de Dados:</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 <!-- UI/UX Design -->
 <h3>🎨 Design / UI-UX:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Figma" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
 
 
 </div>
