@@ -20,13 +20,34 @@
 </div>
 
 <h2>💻 Linguagens e Tecnologias:</h2>
+
+<!-- Front-end Web -->
+<h3>🌐 Front-end:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000">
   <img align="center" alt="Git" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
+<!-- Front-end Mobile -->
+<h3>📱 Mobile :</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Flutter" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+</div>
+
+<!-- Banco de Dados -->
+<h3>🗄 Banco de Dados:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000">
+</div>
+
+<!-- UI/UX Design -->
+<h3>🎨 Design / UI-UX:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Figma" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
 
 </div>
  
