@@ -7,11 +7,24 @@
 - 📚 Atualmente focado no desenvolvimento **Front-end**, estudando pela **Origamid**.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cesuca)
 - 📈 Sempre em busca de novos desafios e aprendizados para evoluir como desenvolvedor
----
-## 🌐 Meu Portfólio  
-👉 Confira - [Portfólio](https://luis-vinicius-severo.github.io/Portifolio/).  
 
 ---
+
+<h2>💻 Linguagens e Tecnologias:</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+---
+
  ### 📊 Estatísticas
  <div>
    <a href="https://github.com/Luis-Vinicius-Severo">
@@ -19,40 +32,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vinicius-Severo&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
 </div>
 
-<h2>💻 Linguagens e Tecnologias:</h2>
-
-<!-- Front-end Web -->
-<h3>🌐 Front-end Web:</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-<!-- Front-end Mobile -->
-<h3>📱 Mobile:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-<!-- Banco de Dados -->
-<h3>🗄️ Banco de Dados:</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-<!-- UI/UX Design -->
-<h3>🎨 Design / UI-UX:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
 
 
-
-</div>
- 
 <br>
  
 <h2>Redes socias:</h2>
