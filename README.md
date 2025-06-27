@@ -1,5 +1,5 @@
 # Olá, eu sou o Luis Vinicius 
-  🚀 **` Desenvolvedor Front-End | Análise e Desenvolvimento de Sistemas`**
+  🚀 **` Desenvolvedor | Análise e Desenvolvimento de Sistemas`**
 
 ---
 ## 🌟 Sobre mim  
