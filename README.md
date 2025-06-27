@@ -4,7 +4,6 @@
 ---
 ## 🌟 Sobre mim  
 - 🔧 Formado em Mecatrônica e em transição para o desenvolvimento de software
-- 📚 Atualmente focado no desenvolvimento **Front-end**, estudando pela **Origamid**.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cesuca)
 - 📈 Sempre em busca de novos desafios e aprendizados para evoluir como desenvolvedor
 
