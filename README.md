@@ -35,7 +35,7 @@ I came from the mechanical field, where I worked with maintenance and production
 <h2> Social media:</h2>
 
 <div align="center">
-<img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1NHl1cXE1OTZkYm4zdTl3M2RzYTUzYjNlYzlyeTI2dzVveXkycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="center" style="height: 200px; width: auto;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1NHl1cXE1OTZkYm4zdTl3M2RzYTUzYjNlYzlyeTI2dzVveXkycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
  <br>
