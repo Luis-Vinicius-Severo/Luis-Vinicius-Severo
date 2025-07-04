@@ -1,15 +1,17 @@
-# Olá, eu sou o Luis Vinicius 
-  🚀 **` Desenvolvedor | Análise e Desenvolvimento de Sistemas`**
+# Hello, I'm Luis Vinicius
+  🚀 **` Developer | Systems Analysis and Developments`**
 
 ---
-## 🌟 Sobre mim  
-- 🔧 Formado em Mecatrônica e em transição para o desenvolvimento de software
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cesuca)
-- 📈 Sempre em busca de novos desafios e aprendizados para evoluir como desenvolvedor
+## 🌟 About me
+I am currently studying Systems Analysis and Development and studying programming. My main goal is to enter the technology field as a developer, put my knowledge into practice and continue to grow professionally within the field.
+
+I have knowledge of HTML, CSS, JavaScript, React, Flutter and Java, as well as knowledge of databases with MySQL. I also use tools such as Git and GitHub for code versioning and organizing my personal projects.
+
+I came from the mechanical field, where I worked with maintenance and production line leadership. During this period, I realized a strong interest in technology and decided to change careers. Since then, I have been fully dedicated to programming, developing projects and learning every day.
 
 ---
 
-<h2>💻 Linguagens e Tecnologias:</h2>
+<h2>💻 Languages ​​and Technologies:</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,15 +24,15 @@
  ### 📊 Estatísticas
  <div>
    <a href="https://github.com/Luis-Vinicius-Severo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vinicius-Severo&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vinicius-Severo&layout=compact&langs_count=6&theme=radical&locale=en"/>
 </div>
 
 
 
 <br>
  
-<h2>Redes socias:</h2>
+<h2> Social media:</h2>
 
 <div align="center">
 <img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1NHl1cXE1OTZkYm4zdTl3M2RzYTUzYjNlYzlyeTI2dzVveXkycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
