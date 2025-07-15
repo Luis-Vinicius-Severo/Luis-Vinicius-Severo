@@ -1,4 +1,4 @@
-# Hello, I'm Luis Vinicius
+# 👨‍💻 Hello, I'm Luis Vinicius
   🚀 **` Developer | Systems Analysis and Developments`**
 
 ---
@@ -15,13 +15,17 @@ I came from the mechanical field, where I worked with maintenance and production
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,java,flutter"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,flutter"/>
   </a>
 </p>
 
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
+
+
 ---
 
- ### 📊 Estatísticas
+ ### 📊 Statistics
  <div>
    <a href="https://github.com/Luis-Vinicius-Severo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&locale=en" />
