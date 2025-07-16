@@ -19,7 +19,7 @@ I came from the mechanical field, where I worked with maintenance and production
   </a>
 </p>
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
 
 
