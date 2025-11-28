@@ -1,17 +1,17 @@
-# 👨‍💻 Hello, I'm Luis Vinicius
+# 👨‍💻 Olá, eu sou Luis Vinicius.
   🚀 **` Developer | Systems Analysis and Developments`**
 
 ---
-## 🌟 About me
-I am currently studying Systems Analysis and Development and studying programming. My main goal is to enter the technology field as a developer, put my knowledge into practice and continue to grow professionally within the field.
+## 🌟 Sobre mim
+Sou Luis Vinicius, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde meu primeiro contato com programação ainda no curso técnico de Mecatrônica. Venho fazendo minha transição de carreira e, ao longo dessa jornada, desenvolvi habilidades importantes como resolução de problemas, organização, trabalho em equipe e comunicação — competências que hoje aplico diretamente no desenvolvimento de software.
 
-I have knowledge of HTML, CSS, JavaScript, React, Flutter and Java, as well as knowledge of databases with MySQL. I also use tools such as Git and GitHub for code versioning and organizing my personal projects.
+Concluí a trilha de Java no Instituto Caldeira, onde aprofundei meus conhecimentos em lógica de programação, conceitos de back-end, boas práticas de desenvolvimento e metodologias ágeis. Durante o programa, trabalhei com Trello, participei de atividades focadas em soft skills e tive contato com dinâmicas que simulam rotinas reais do mercado de tecnologia.
 
-I came from the mechanical field, where I worked with maintenance and production line leadership. During this period, I realized a strong interest in technology and decided to change careers. Since then, I have been fully dedicated to programming, developing projects and learning every day.
+Atualmente, sigo expandindo meu conhecimento em tecnologias modernas e evoluindo como desenvolvedor, com o objetivo de me tornar um Full Stack, criando soluções práticas, eficientes e bem estruturadas.
 
 ---
 
-<h2>💻 Languages ​​and Technologies:</h2>
+<h2>💻 Linguagens e tecnologias:</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ I came from the mechanical field, where I worked with maintenance and production
 
 ---
 
- ### 📊 Statistics
+ ### 📊 Estatísticas
  <div>
    <a href="https://github.com/Luis-Vinicius-Severo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight&locale=en" />
