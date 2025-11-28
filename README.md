@@ -15,12 +15,14 @@ I came from the mechanical field, where I worked with maintenance and production
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,flutter"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,maven,flutter" />
+    <br/>
+     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi"/>
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg" alt="Firebird"/>    
 </p>
-
-### 🛠️ Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
+  </a>
+  <br/>
 
 
 ---
