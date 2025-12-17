@@ -9,6 +9,8 @@ Concluí a trilha de Java no Instituto Caldeira, onde aprofundei meus conhecimen
 
 Atualmente, sigo expandindo meu conhecimento em tecnologias modernas e evoluindo como desenvolvedor, com o objetivo de me tornar um Full Stack, criando soluções práticas, eficientes e bem estruturadas.
 
+🔗 Portfólio: https://luis-vinicius-severo.github.io/Portifolio/
+
 ---
 
 <h2>💻 Linguagens e tecnologias:</h2>
