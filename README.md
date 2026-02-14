@@ -17,7 +17,7 @@ Atualmente, sigo expandindo meu conhecimento em tecnologias modernas e evoluindo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring" />
     <br/>
      <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi"/>
