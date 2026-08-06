@@ -2,7 +2,7 @@
   🚀 **` Developer | Systems Analysis and Developments`**
 
 ---
-## 🌟 Sobre mim
+##  Sobre mim
 Sou Luis Vinicius, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde meu primeiro contato com programação ainda no curso técnico de Mecatrônica. Venho fazendo minha transição de carreira e, ao longo dessa jornada, desenvolvi habilidades importantes como resolução de problemas, organização, trabalho em equipe e comunicação — competências que hoje aplico diretamente no desenvolvimento de software.
 
 Concluí a trilha de Java no Instituto Caldeira, onde aprofundei meus conhecimentos em lógica de programação, conceitos de back-end, boas práticas de desenvolvimento e metodologias ágeis. Durante o programa, trabalhei com Trello, participei de atividades focadas em soft skills e tive contato com dinâmicas que simulam rotinas reais do mercado de tecnologia.
