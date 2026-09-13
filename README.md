@@ -2,34 +2,52 @@
   🚀 **` Developer | Systems Analysis and Developments`**
 
 ---
-##  Sobre mim
-Sou Luis Vinicius, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde meu primeiro contato com programação ainda no curso técnico de Mecatrônica. Venho fazendo minha transição de carreira e, ao longo dessa jornada, desenvolvi habilidades importantes como resolução de problemas, organização, trabalho em equipe e comunicação — competências que hoje aplico diretamente no desenvolvimento de software.
+## 👨‍💻 Sobre mim
 
-Concluí a trilha de Java no Instituto Caldeira, onde aprofundei meus conhecimentos em lógica de programação, conceitos de back-end, boas práticas de desenvolvimento e metodologias ágeis. Durante o programa, trabalhei com Trello, participei de atividades focadas em soft skills e tive contato com dinâmicas que simulam rotinas reais do mercado de tecnologia.
+Sou Luis Vinicius, formado em Mecatrônica e atualmente estudante de
+Análise e Desenvolvimento de Sistemas na Cesuca. Minha trajetória
+profissional começou na área de Mecatrônica e, ao longo dos últimos
+anos, venho direcionando minha carreira para o desenvolvimento de
+software.
 
-Atualmente, sigo expandindo meu conhecimento em tecnologias modernas e evoluindo como desenvolvedor, com o objetivo de me tornar um Full Stack, criando soluções práticas, eficientes e bem estruturadas.
+Atualmente, atuo como Desenvolvedor Full Stack na Anexo Tecnologia,
+trabalhando profissionalmente com Delphi e Firebird em um sistema de
+gestão de frotas. Minha atuação envolve a implementação de melhorias,
+ajustes de regras de negócio, correção de problemas e desenvolvimento
+de soluções para as necessidades do sistema.
 
-🔗 Portfólio: https://luis-vinicius-severo.github.io/Portifolio/
+Em 2025, participei do Geração Caldeira, na trilha Java, experiência
+que ampliou meus conhecimentos em lógica de programação, Java,
+Spring Boot, desenvolvimento back-end, metodologias ágeis e trabalho
+em equipe.
 
 ---
 
-<h2>💻 Linguagens e tecnologias:</h2>
+## 🛠️ Tecnologias
+
+### 💼 Experiência profissional
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring" />
-    <br/>
-     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi"/>
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg" alt="Firebird"/>    
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg" alt="Firebird"/>
 </p>
-  </a>
-  <br/>
 
+### 📚 Conhecimentos adquiridos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,git,github" />
+</p>
+
+### 🚀 Em aprendizado
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts" />
+</p>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
+
 <div>
   <a href="https://github.com/Luis-Vinicius-Severo">
     <img height="180em" src="https://github-readme-stats-rho-beige.vercel.app/api?username=Luis-Vinicius-Severo&show_icons=true&theme=tokyonight"/>
@@ -38,17 +56,25 @@ Atualmente, sigo expandindo meu conhecimento em tecnologias modernas e evoluindo
 </div>
 
 <br>
- 
-<h2> Social media:</h2>
+
+## 🌐 Redes sociais
 
 <div align="center">
 <img align="center" style="height: 200px; width: auto;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1NHl1cXE1OTZkYm4zdTl3M2RzYTUzYjNlYzlyeTI2dzVveXkycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
- <br>
- 
+<br>
+
 <div align="center">
-  <a href="https://www.instagram.com/z_luisvinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "luislucasinter13@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisviniciussevero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/z_luisvinicius/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:luislucasinter13@hotmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/luisviniciussevero/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
